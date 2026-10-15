@@ -1,0 +1,20 @@
+{
+  "name": "Music Player",
+  "short_name": "Music",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f5f5",
+  "theme_color": "#ec1f55",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192/ec1f55/ffffff?text=Music",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512/ec1f55/ffffff?text=Music",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
